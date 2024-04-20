@@ -1,0 +1,6 @@
+snake game 
+author-SKD
+2013
+
+use ASWD for changing the directions of snake
+
